@@ -28,7 +28,7 @@ By looking at the StackOverflow 2022 survey data I was curious to know:
 
 ## File Descriptions <a name="files"></a>
 
-There is a single notebook file that showcases the work relating to the aforementioned questions. 
+There is a single notebook file `Stackoverflow_2022_Survey_Analysis.ipynb` that showcases the work relating to the aforementioned questions. 
 
 The data folder consists two csv files `survey_results_public.csv` (Main survey results) and `survey_results_schema.csv` (Questions corresponding to each column in the main results csv) along with `so_survey_2022.pdf` which is the questionnaire.
 
