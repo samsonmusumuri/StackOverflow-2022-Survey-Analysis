@@ -18,7 +18,7 @@ pip install plotly
 
 ## Objective<a name="motivation"></a>
 
-By using the StackOverflow 2022 survey data i was curious to know:
+By using the StackOverflow 2022 survey data I was curious to know:
 
 1. What are the most popular websites for someone to start learning to code online and get certified?
 2. Countries where the respondents are under the age of 18
@@ -30,7 +30,7 @@ By using the StackOverflow 2022 survey data i was curious to know:
 
 There is a single notebook file that showcases the work relating to the aforementioned questions. 
 
-The data folder consists two csv files `survey_results_public.csv` and `survey_results_schema.csv` along with `so_survey_2022.pdf` which is the questionnaire.
+The data folder consists two csv files `survey_results_public.csv` (Main survey results) and `survey_results_schema.csv` (Questions corresponding to each column in the main results csv) along with `so_survey_2022.pdf` which is the questionnaire.
 
 ## Results<a name="results"></a>
 
