@@ -18,7 +18,7 @@ pip install plotly
 
 ## Objective<a name="motivation"></a>
 
-By using the StackOverflow 2022 survey data I was curious to know:
+By looking at the StackOverflow 2022 survey data I was curious to know:
 
 1. What are the most popular websites for someone to start learning to code online and get certified?
 2. Countries where the respondents are under the age of 18
