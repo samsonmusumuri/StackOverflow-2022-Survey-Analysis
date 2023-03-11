@@ -26,7 +26,7 @@ By looking at the StackOverflow 2022 survey data I was curious to know:
 4. What does Organization Size looks like in 2022?
 5. Where are these organizations located?
 
-P.S I have used `gitly` library to display `plotly` plots as static. If you are running on your local machine then just installing plotly will work.
+P.S. I have used `gitly` library to display `plotly` plots as static. If you are running on your local machine then just installing plotly will work.
 
 ## File Descriptions <a name="files"></a>
 
