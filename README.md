@@ -36,7 +36,7 @@ The data folder consists two csv files `survey_results_public.csv` (Main survey 
 
 ## Results<a name="results"></a>
 
-The descriptive analysis of the code can be found at [Medium](Paste_LINK_HERE).
+The descriptive analysis of the code can be found at [Medium](https://medium.com/@samsonmusumuri/top-5-online-certification-websites-for-aspiring-coders-according-to-stackoverflow-survey-2022-13b252ae31cb).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
